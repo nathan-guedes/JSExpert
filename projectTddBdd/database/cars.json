@@ -1,0 +1,16 @@
+[
+    {
+        "id": "b5234303-b6a4-4ea8-a365-38fccb6130ea",
+        "name": "F-150",
+        "releaseYear": 2024,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "a712f358-5500-4683-8aac-296a11df9505",
+        "name": "Impala",
+        "releaseYear": 2024,
+        "available": true,
+        "gasAvailable": true
+    }
+]
