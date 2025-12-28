@@ -31,6 +31,10 @@ export default class TerminalController {
     return new Promise((resolve) => this.terminal.question(msg, resolve));
   }
 
+  closeTerminal() {
+    this.terminal.close();
+  }
+
   getTableOptions() {
     return {
       leftPad: 2,
